@@ -1,6 +1,6 @@
 {
   "name": "rfswitch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "control RF outlets from nodejs",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/moritzmhmk/node-rfswitch#readme",
   "dependencies": {
-    "rpio": "^0.9.14"
+    "rpio": "^1.3.0"
   }
 }
